@@ -1,5 +1,8 @@
 # Typing-Tempo-Auto-Chart
 Typing Tempo Auto Chart
+
+Need to change offset manual, sorry
+
 Enter songs_name beatPerBar bpm to_4_8_16_32_orSomeOther randomtype(0 for no random, 1 for yes)  
 
 
